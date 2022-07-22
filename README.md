@@ -1,5 +1,6 @@
 # Setting-up-Microsoft-Studios-for-Success
 
+![Cinema](https://user-images.githubusercontent.com/44559346/180476111-6b54245d-3a78-4417-b6c7-499af4831d9e.jpg)
 
 
 ### Project Goal:
